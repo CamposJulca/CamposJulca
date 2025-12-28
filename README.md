@@ -2,10 +2,10 @@
 
 <div align="center">
 
-### Data Engineer & AI Architect
-**Applied Math · Distributed Systems · Production-Ready AI**
+### 💼 Data Engineer & AI Architect
+**📐 Applied Math · 🌐 Distributed Systems · 🤖 Production-Ready AI**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Building+scalable+data+pipelines+%F0%9F%9A%80;AI-enabled+backend+architectures+%F0%9F%A4%96;Production+systems+that+actually+work+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Building+scalable+data+pipelines+🚀;AI-enabled+backend+architectures+🤖;Production+systems+that+actually+work+⚙️)](https://git.io/typing-svg)
 
 </div>
 
@@ -44,6 +44,7 @@ class DataEngineer:
 <div align="center">
 
 ### **Core Stack**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -51,17 +52,20 @@ class DataEngineer:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Backend & APIs**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### **Data & Analytics**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ### **Infrastructure & IoT**
+
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -82,6 +86,7 @@ tech: [IoT, SDN, Ryu, OpenFlow]
 impact: Real-time city infrastructure monitoring
 status: 🟢 Production
 ```
+
 *Intelligent SDN controller for urban IoT networks*
 
 </td>
@@ -94,6 +99,7 @@ tech: [Django, PostgreSQL, Docker]
 impact: Enterprise automation platform
 status: 🟢 Production
 ```
+
 *Scalable document workflow automation*
 
 </td>
@@ -108,6 +114,7 @@ tech: [Python, FastAPI, Pandas]
 impact: Institutional data intelligence
 status: 🟡 Active Development
 ```
+
 *ETL pipelines & analytics for government systems*
 
 </td>
@@ -120,6 +127,7 @@ $ git clone innovation.git
 $ cd collaboration
 $ ./deploy_together.sh
 ```
+
 *Open to interesting challenges 🚀*
 
 </td>
@@ -132,16 +140,20 @@ $ ./deploy_together.sh
 
 <div align="center">
 
-### **Contribution Heatmap**
+### **🔥 Contribution Heatmap**
+
 ![](https://metrics.lecoq.io/CamposJulca?template=classic&isocalendar=1&isocalendar.duration=half-year)
 
-### **Code Distribution**
+### **📈 Code Distribution**
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CamposJulca&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
-### **GitHub Stats**
+### **⚡ GitHub Stats**
+
 ![](https://github-readme-stats.vercel.app/api?username=CamposJulca&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-### **Contribution Streak**
+### **🔥 Contribution Streak**
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CamposJulca&theme=github-dark-blue&hide_border=true)
 
 </div>
@@ -184,7 +196,7 @@ $ echo "Let's build data systems that matter 🚀"
 
 *"The best data pipeline is the one you don't have to think about"*
 
-**⚡ Writing code that scales · Building systems that last · Shipping features that matter**
+**⚡ Writing code that scales · 🏗️ Building systems that last · 🎯 Shipping features that matter**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CamposJulca&color=blueviolet&style=for-the-badge)
 
