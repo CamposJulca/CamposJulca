@@ -1,12 +1,9 @@
 # 👨‍💻 Cristhiam Daniel Campos Julca
 
 <div align="center">
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  Data Engineer & AI Architect                                ║
-║  Applied Math · Distributed Systems · Production-Ready AI    ║
-╚══════════════════════════════════════════════════════════════╝
-```
+
+### Data Engineer & AI Architect
+**Applied Math · Distributed Systems · Production-Ready AI**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Building+scalable+data+pipelines+%F0%9F%9A%80;AI-enabled+backend+architectures+%F0%9F%A4%96;Production+systems+that+actually+work+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
