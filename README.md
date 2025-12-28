@@ -11,17 +11,26 @@
 
 ---
 
-## $ whoami
+## $whoami
 
 <div align="center">
-```javascript
-const engineer = {
-  name: "Cristhiam Daniel Campos Julca",
-  role: "Data Engineer & AI Architect",
-  education: ["Industrial Eng.", "M.Sc. Applied Math", "Ph.D. (in progress)"],
-  location: "🇨🇴 Colombia",
-  expertise: ["Data Engineering", "AI/ML Systems", "Distributed Arch", "SDN & IoT"]
-}
+  
+```cpp
+#include <map>
+#include <vector>
+#include <string>
+
+class DataEngineer {
+public:
+    std::string name = "Cristhiam Daniel Campos Julca";
+    std::string role = "Data Engineer & AI Architect";
+    std::vector<std::string> education = {
+        "Industrial Engineering",
+        "M.Sc. Applied Mathematics", 
+        "Ph.D. Engineering (in progress)"
+    };
+    std::string location = "🇨🇴 Colombia";
+};
 ```
 
 </div>
@@ -32,16 +41,58 @@ const engineer = {
 
 <table align="center">
 <tr>
-<td align="center" width="25%"><b>Languages</b><br/>Python · C++ · Java</td>
-<td align="center" width="25%"><b>Backend</b><br/>FastAPI · Django</td>
-<td align="center" width="25%"><b>Databases</b><br/>PostgreSQL · MongoDB · Oracle</td>
-<td align="center" width="25%"><b>Infra</b><br/>Docker · Linux · Git</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<br/><b>Python</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+<br/><b>C++</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<br/><b>Java</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<br/><b>PostgreSQL</b>
+</td>
 </tr>
 <tr>
-<td align="center" width="25%"><b>Data</b><br/>Pandas · Power BI</td>
-<td align="center" width="25%"><b>IoT</b><br/>SDN (Ryu) · OpenFlow · RPi</td>
-<td align="center" width="25%"><b>Docs</b><br/>LaTeX</td>
-<td align="center" width="25%"><b>Cloud</b><br/>Docker · CI/CD</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<br/><b>FastAPI</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+<br/><b>Django</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<br/><b>Docker</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<br/><b>MongoDB</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<br/><b>Pandas</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+<br/><b>Linux</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<br/><b>Git</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
+<br/><b>LaTeX</b>
+</td>
 </tr>
 </table>
 
@@ -49,60 +100,143 @@ const engineer = {
 
 ## 📦 Featured Projects
 
-<details>
-<summary><b>🏙️ UrbIA</b> · Smart urban IoT monitoring with SDN controllers <code>[Production]</code></summary>
-<br/>
-Intelligent SDN controller for urban IoT networks with real-time monitoring and data analytics.
-<br/><br/>
-<code>Tech: IoT · SDN · Ryu · OpenFlow · Python</code>
-</details>
-
-<details>
-<summary><b>📄 SIGMA</b> · Distributed document management & automation <code>[Production]</code></summary>
-<br/>
-Enterprise-grade document workflow automation platform with distributed architecture.
-<br/><br/>
-<code>Tech: Django · PostgreSQL · Docker · Redis</code>
-</details>
-
-<details>
-<summary><b>📊 RNI-InfoEngine</b> · ETL pipelines for government data analytics <code>[Active Dev]</code></summary>
-<br/>
-Data analytics engine with automated ETL processes for institutional systems.
-<br/><br/>
-<code>Tech: Python · FastAPI · Pandas · PostgreSQL</code>
-</details>
+<table>
+<tr>
+<td width="33%">
+<h3>🏙️ UrbIA</h3>
+<p><b>Smart Urban IoT Monitoring</b></p>
+<p>Intelligent SDN controller for urban IoT networks with real-time monitoring and data analytics.</p>
+<p><code>IoT · SDN · Ryu · OpenFlow · Python</code></p>
+<p>🟢 <b>Production</b></p>
+</td>
+<td width="33%">
+<h3>📄 SIGMA</h3>
+<p><b>Document Management Platform</b></p>
+<p>Enterprise-grade distributed document workflow automation system.</p>
+<p><code>Django · PostgreSQL · Docker · Redis</code></p>
+<p>🟢 <b>Production</b></p>
+</td>
+<td width="33%">
+<h3>📊 RNI-InfoEngine</h3>
+<p><b>Data Analytics Engine</b></p>
+<p>ETL pipelines and analytics for institutional government systems.</p>
+<p><code>Python · FastAPI · Pandas · PostgreSQL</code></p>
+<p>🟡 <b>Active Development</b></p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Tech Distribution
+## 📊 Tech Distribution & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposJulca&layout=pie&theme=dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="400"/>
+### 📈 Language Usage Across All Repositories
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CamposJulca&layout=pie&theme=dark&hide_border=true&langs_count=8)
+
+### 📉 Contribution Timeline
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CamposJulca&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9)
+
+### 📅 Contribution Calendar
+
+![Metrics](https://metrics.lecoq.io/CamposJulca?template=classic&isocalendar=1&isocalendar.duration=half-year)
+
+### 🔥 Detailed Contribution Overview
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamposJulca&theme=github_dark)
 
 </div>
 
 ---
 
-## 📈 GitHub Activity
+## 💼 Experience & Expertise
+```python
+# Data Engineering Core
+class DataPipeline:
+    def __init__(self):
+        self.expertise = {
+            "etl": ["Pipeline Design", "Real-time Processing", "Data Warehousing"],
+            "databases": ["PostgreSQL", "MongoDB", "Oracle"],
+            "analytics": ["Pandas", "Power BI", "Statistical Analysis"]
+        }
+    
+    def build_scalable_infrastructure(self):
+        return "Production-ready data systems"
+```
+```java
+// Backend & API Development
+public class BackendArchitect {
+    private String[] frameworks = {"FastAPI", "Django"};
+    private String[] skills = {
+        "RESTful API Design",
+        "Microservices Architecture", 
+        "System Integration",
+        "Performance Optimization"
+    };
+    
+    public void deployToProduction() {
+        System.out.println("Shipping features that matter 🚀");
+    }
+}
+```
+```cpp
+// Infrastructure & Systems
+namespace Infrastructure {
+    class SystemsEngineer {
+    public:
+        vector<string> expertise = {
+            "Distributed Systems",
+            "Containerization (Docker)",
+            "SDN & IoT Edge Computing",
+            "Linux Administration"
+        };
+        
+        void optimize() {
+            cout << "Building systems that scale ⚡" << endl;
+        }
+    };
+}
+```
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=CamposJulca&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CamposJulca&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="Streak Stats" width="49%" />
+## 📈 Current Work
 
-</div>
+- 🎓 **Ph.D. Candidate** in Engineering (Automation)
+- 💼 **Systems Developer & Data Analyst** for government entities
+- 🏗️ Building scalable data infrastructure for **Unidad para las Víctimas**
+- 📊 Developing analytics engines for municipal governments
+- 🤖 Implementing AI/ML solutions in production environments
 
 ---
 
 ## 2025 Goals
 
-> 🎓 **Complete Ph.D.** in Engineering (Automation)  
-> 🏗️ **Scale data infrastructure** for government systems  
-> 🤖 **Deploy ML models** in production environments  
-> 📚 **Contribute** to open-source data engineering tools  
-> 🌱 **Mentor** next-generation data engineers
+<table>
+<tr>
+<td width="20%" align="center">🎓</td>
+<td width="80%"><b>Complete Ph.D.</b> in Engineering (Automation)</td>
+</tr>
+<tr>
+<td width="20%" align="center">🏗️</td>
+<td width="80%"><b>Scale data infrastructure</b> for government systems</td>
+</tr>
+<tr>
+<td width="20%" align="center">🤖</td>
+<td width="80%"><b>Deploy ML models</b> in production environments</td>
+</tr>
+<tr>
+<td width="20%" align="center">📚</td>
+<td width="80%"><b>Contribute</b> to open-source data engineering tools</td>
+</tr>
+<tr>
+<td width="20%" align="center">🌱</td>
+<td width="80%"><b>Mentor</b> next-generation data engineers</td>
+</tr>
+</table>
 
 ---
 
@@ -114,7 +248,7 @@ Data analytics engine with automated ETL processes for institutional systems.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lider.tecnico@neusisolutions.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CamposJulca)
 
-<br/>
+<br/><br/>
 ```bash
 $ echo "Building data systems that scale 🚀"
 ```
@@ -129,8 +263,16 @@ $ echo "Building data systems that scale 🚀"
 
 <div align="center">
 
+### 💡 Philosophy
+
+*"The best data pipeline is the one you don't have to think about"*
+
+<br/>
+
 **⚡ Code that scales · 🏗️ Systems that last · 🎯 Features that matter**
 
-<sub>Made with ❤️ and ☕</sub>
+<br/>
+
+<sub>Made with ❤️ and ☕ by a Data Engineer who loves clean architectures</sub>
 
 </div>
